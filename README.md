@@ -6,6 +6,10 @@
   <a href="https://www.twitch.tv/natanzbm"><img src="https://img.shields.io/badge/-natanzbm-purple?style=for-the-badge&logo=Twitch&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <span>Repositórios com projetos em construção! :)</spans>  
+</p>
+
 </br>
 </br>
 
